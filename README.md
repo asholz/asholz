@@ -1,6 +1,6 @@
 ## About Me
 
-- :credit_card: My name is **Ann** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My name is **Anna** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Vien**
 - :books: My major is **Software Engineering**
 - :sweat_smile: I'm a intermediate in coding :penguin:
